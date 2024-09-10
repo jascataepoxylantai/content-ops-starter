@@ -219,8 +219,10 @@ sections:
         title: Epoxy Lantai Lapangan Olahraga
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Epoxy lantai ini dirancang untuk memenuhi kebutuhan khusus lapangan
+          olahraga, baik indoor maupun outdoor, memberikan performa yang optimal
+          dalam berbagai kondisi.
         image:
           type: ImageBlock
           url: /images/26.jpg
