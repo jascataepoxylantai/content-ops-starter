@@ -110,8 +110,11 @@ sections:
         title: Jasa Epoxy Lantai
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Pemasangan Epoxy Lantai: Kami menghadirkan teknologi terkini dalam
+          pemasangan epoxy lantai untuk menciptakan permukaan yang tahan lama
+          dan mudah perawatannya. Dengan berbagai opsi warna dan desain, Anda
+          bisa memilih gaya yang sesuai dengan preferensi dan kebutuhan Anda.
         image:
           type: ImageBlock
           url: /images/3.jpg
