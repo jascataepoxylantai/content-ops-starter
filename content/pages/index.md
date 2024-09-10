@@ -54,103 +54,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: NUANSA EPOXY
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    subtitle: >-
+      Nuansa epoxy menawarkan berbagai layanan yang dirancang untuk memenuhi
+      kebutuhan lantai Anda, baik untuk keperluan rumah tangga, komersial,
+      maupun industri.
+    items: []
+    actions: []
     badge:
-      label: This is a badge
+      label: Jasa aplikator epoxy lantai
       color: text-primary
       styles:
         self:
@@ -169,56 +86,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -229,6 +96,193 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: List of features here
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: Featured items section subtitle
+    items:
+      - type: FeaturedItem
+        title: Jasa Epoxy Lantai
+        tagline: ''
+        subtitle: ''
+        text: >
+          Pemasangan Epoxy Lantai: Kami menghadirkan teknologi terkini dalam
+          pemasangan epoxy lantai untuk menciptakan permukaan yang tahan lama
+          dan mudah perawatannya. Dengan berbagai opsi warna dan desain, Anda
+          bisa memilih gaya yang sesuai dengan preferensi dan kebutuhan Anda.
+        image:
+          type: ImageBlock
+          url: /images/3.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Epoxy Lantai Self Leveling
+        tagline: ''
+        subtitle: ''
+        text: >
+          Epoxy Lantai self-leveling adalah: salah satu jenis lapisan epoxy yang
+          dirancang untuk menyebarkan secara merata dan membentuk permukaan yang
+          datar dan halus, tentu dengan toleransi mengikuti ketebalan cat dan
+          permukaan beton
+        image:
+          type: ImageBlock
+          url: /images/7.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Jasa EPoxy Lantai Floor Coating
+        tagline: ''
+        subtitle: ''
+        text: >
+          Lantai epoxy floor coating: memberikan perlindungan ekstra bagi
+          permukaan lantai, menjadikannya lebih tahan terhadap kerusakan akibat
+          lalu lintas berat, bahan kimia, dan abrasi.
+        image:
+          type: ImageBlock
+          url: /images/10.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Epoxy Lantai Mortar
+        tagline: ''
+        subtitle: ''
+        text: >
+          epoxy lantai mortar memiliki ketebalan yang lebih besar, biasanya
+          antara 5 hingga 10 mm, sehingga memberikan kekuatan mekanis yang lebih
+          tinggi dan ketahanan terhadap berbagai jenis beban dan kondisi
+          lingkungan. pelapisan lantai yang menggunakan campuran epoxy resin
+          dengan agregat pasir kuarsa untuk menciptakan lapisan yang sangat kuat
+          dan tebal.
+        image:
+          type: ImageBlock
+          url: /images/13.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Epoxy Lantai Lapangan Olahraga
+        tagline: ''
+        subtitle: ''
+        text: >
+          Epoxy lantai ini dirancang untuk memenuhi kebutuhan khusus lapangan
+          olahraga, baik indoor maupun outdoor, memberikan performa yang optimal
+          dalam berbagai kondisi.
+        image:
+          type: ImageBlock
+          url: /images/26.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Epoxy Lantai Anti Statis
+        tagline: ''
+        subtitle: ''
+        text: >
+          sistem pelapisan lantai yang menggunakan bahan epoxy yang telah
+          diformulasikan dengan aditif khusus untuk mengurangi atau
+          menghilangkan penumpukan listrik statis. Lantai ini dirancang untuk
+          mengalirkan muatan listrik statis ke tanah, mencegah terjadinya
+          percikan listrik yang dapat merusak peralatan elektronik atau memicu
+          kebakaran.
+        image:
+          type: ImageBlock
+          url: /images/82.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Grow your business 10x faster
       color: text-dark
