@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Epoxy Lantai
-        subtitle: Numbers Done
+        subtitle: Jasa Epoxy Lantai
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
