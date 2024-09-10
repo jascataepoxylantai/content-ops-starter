@@ -54,7 +54,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: NUANSA EPOXY
       color: text-dark
       styles:
         self:
