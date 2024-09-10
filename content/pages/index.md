@@ -161,7 +161,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Jasa EPoxy Lantai Floor
+        title: Jasa EPoxy Lantai Floor Coating
         tagline: ''
         subtitle: This is the item subtitle
         text: |
