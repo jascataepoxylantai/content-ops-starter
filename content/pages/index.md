@@ -99,12 +99,15 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Layanan Kami
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      Nuansa epoxy menawarkan berbagai layanan yang dirancang untuk memenuhi
+      kebutuhan lantai Anda, baik untuk keperluan rumah tangga, komersial,
+      maupun industri.
     items:
       - type: FeaturedItem
         title: Jasa Epoxy Lantai
