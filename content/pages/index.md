@@ -289,7 +289,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Aplikator Berpengalamab
       color: text-dark
     subtitle: Increase your reach
     text: >
