@@ -315,7 +315,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Aplikator
+      label: Aplikator berpengalaman
       color: text-primary
     colors: bg-light-fg-dark
     styles:
