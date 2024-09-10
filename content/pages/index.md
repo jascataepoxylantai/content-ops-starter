@@ -14,7 +14,7 @@ sections:
       kepuasan pelanggan yang tak tertandingi, Nuansa Epoxy adalah pilihan utama
       untuk semua kebutuhan Anda dalam pemeliharaan dan perbaikan lantai.
     actions:
-      - label: Get started
+      - label: Informasi Lengkap
         altText: ''
         url: /
         showIcon: false
