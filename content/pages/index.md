@@ -287,7 +287,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Grow your business 10x faster
+      text: Aplikator Berpengalaman
       color: text-dark
       styles:
         self:
