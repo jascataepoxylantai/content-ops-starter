@@ -190,8 +190,13 @@ sections:
         title: Epoxy Lantai Mortar
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          epoxy lantai mortar memiliki ketebalan yang lebih besar, biasanya
+          antara 5 hingga 10 mm, sehingga memberikan kekuatan mekanis yang lebih
+          tinggi dan ketahanan terhadap berbagai jenis beban dan kondisi
+          lingkungan. pelapisan lantai yang menggunakan campuran epoxy resin
+          dengan agregat pasir kuarsa untuk menciptakan lapisan yang sangat kuat
+          dan tebal.
         image:
           type: ImageBlock
           url: /images/13.jpg
