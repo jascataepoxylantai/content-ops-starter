@@ -137,8 +137,11 @@ sections:
         title: Epoxy Lantai Self Leveling
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          Epoxy Lantai self-leveling adalah: salah satu jenis lapisan epoxy yang
+          dirancang untuk menyebarkan secara merata dan membentuk permukaan yang
+          datar dan halus, tentu dengan toleransi mengikuti ketebalan cat dan
+          permukaan beton
         image:
           type: ImageBlock
           url: /images/7.jpg
