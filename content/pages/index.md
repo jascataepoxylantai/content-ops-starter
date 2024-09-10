@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Nuansa Epoxy
         altText: ''
         url: /
         showIcon: true
