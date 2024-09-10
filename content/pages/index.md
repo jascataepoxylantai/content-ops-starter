@@ -245,8 +245,13 @@ sections:
         title: Epoxy Lantai Anti Statis
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          sistem pelapisan lantai yang menggunakan bahan epoxy yang telah
+          diformulasikan dengan aditif khusus untuk mengurangi atau
+          menghilangkan penumpukan listrik statis. Lantai ini dirancang untuk
+          mengalirkan muatan listrik statis ke tanah, mencegah terjadinya
+          percikan listrik yang dapat merusak peralatan elektronik atau memicu
+          kebakaran.
         image:
           type: ImageBlock
           url: /images/82.jpg
