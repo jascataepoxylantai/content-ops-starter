@@ -345,7 +345,7 @@ sections:
       self:
         alignItems: center
   - title:
-      text: Aplikator Berpengalaman
+      text: Keunggulan Kami
       color: text-dark
       styles:
         self:
