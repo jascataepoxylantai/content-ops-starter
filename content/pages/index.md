@@ -315,7 +315,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Aplikator berpengalaman
+      label: nuansa epoxy indonesia
       color: text-primary
     colors: bg-light-fg-dark
     styles:
