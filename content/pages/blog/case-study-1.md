@@ -1,5 +1,5 @@
 ---
-title: Jasa Epoxy Lantai
+title: ''
 slug: case-study-1
 date: ''
 excerpt: >-
