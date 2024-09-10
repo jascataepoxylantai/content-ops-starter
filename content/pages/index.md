@@ -320,18 +320,11 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Informasi Lengkap Hubungi Kami
+        url: 'https://wa.me/6285973735656'
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/55.jpg
