@@ -394,7 +394,7 @@ sections:
     title: null
     subtitle: Mengapa Memilih Kami Nuansa EPoxy
     items:
-      - title: ''
+      - title: Nuansa Epoxy Indonesia
         tagline: ''
         subtitle: ''
         text: >+
