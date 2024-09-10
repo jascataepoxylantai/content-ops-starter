@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: Nuansa Epoxy
         altText: ''
-        url: /
+        url: 'https://nuansaepoxy.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
