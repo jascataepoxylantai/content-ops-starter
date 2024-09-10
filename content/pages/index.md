@@ -321,7 +321,7 @@ sections:
     actions:
       - type: Button
         label: Informasi Lengkap Hubungi Kami
-        url: /
+        url: 'https://wa.me/6285973735656'
         icon: arrowRight
         iconPosition: right
         style: secondary
