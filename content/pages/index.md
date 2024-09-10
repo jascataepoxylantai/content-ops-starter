@@ -346,7 +346,7 @@ sections:
         alignItems: center
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Video Aplikasi Nuansa EPoxy
       color: text-dark
       styles:
         self:
