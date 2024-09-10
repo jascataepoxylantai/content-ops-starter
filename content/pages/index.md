@@ -66,7 +66,7 @@ sections:
       maupun industri.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Epoxy Lantai
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
