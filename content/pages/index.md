@@ -360,7 +360,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
+      title: Jasa Epoxy Lantai
       url: 'https://www.youtube.com/watch?v=v7JKaOcanc0'
       autoplay: true
       loop: true
