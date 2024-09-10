@@ -216,7 +216,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Epoxy Lantai Lapangan Olahraga
         tagline: ''
         subtitle: This is the item subtitle
         text: |
