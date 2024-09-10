@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Informasi Lengkap
         altText: ''
-        url: /
+        url: 'https://wa.me/6285973735656'
         showIcon: false
         icon: arrowRight
         iconPosition: right
