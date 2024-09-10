@@ -164,8 +164,10 @@ sections:
         title: Jasa EPoxy Lantai Floor Coating
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Lantai epoxy floor coating: memberikan perlindungan ekstra bagi
+          permukaan lantai, menjadikannya lebih tahan terhadap kerusakan akibat
+          lalu lintas berat, bahan kimia, dan abrasi.
         image:
           type: ImageBlock
           url: /images/10.jpg
