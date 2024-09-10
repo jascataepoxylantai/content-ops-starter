@@ -292,9 +292,32 @@ sections:
       text: Aplikator Berpengalamab
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Dengan tim ahli yang berpengalaman dan terampil, kami telah mendedikasikan
+      diri untuk memberikan pelayanan unggul dalam industri ini Seebagai 
+      Aplikator Jasa Epoxy Lantai Yang Terbaikk Layanan Kami Meliputi:
+
+
+      1.  Jasa Epoxy Lantai Pabrik
+
+
+      2.  Aplikator Pengecatan Lantai
+
+
+      3.  Kontraktor Cat Lantai Epoxy
+
+
+      4.  Jasa Epoxy Lantai Gudang
+
+
+      5.  Jasa Cat Epoxy Lantai
+
+
+      6.  Jasa Epoxy Lantai Lapangan Olahraga
+
+
+      7.  Pengecatan Lantai Epoxy Gedung & Parkiran
+
     actions:
       - type: Button
         label: Get started
