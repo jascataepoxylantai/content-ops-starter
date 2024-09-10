@@ -397,10 +397,25 @@ sections:
       - title: ''
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Nuansa Epoxy hadir sebagai solusi lengkap untuk semua masalah lantai
+          Anda Dengan Pengalaman Puluhan Tahun Di Bidang Jasa Epoxy Lantai
+
+
+          *   **Pengalaman dan Keahlian**
+              Aplikator profesional berpengalaman yang ahli dalam pemasangan dan perawatan lantai epoxy
+
+          *   **
+              Harga Komptitif**
+              Dengan Harga berani bersaing dengan kompetitor, tanpa mengurangi mutu dan kualitas
+
+          *   **Layanan Konsultasi 24/7**
+              Kepuasan pelanggan adalah prioritas utama kami, dan kami selalu siap memberikan layanan terbaik.
+
+          *
+              **Solusi Kustom**
+              Kami menawarkan solusi kustom yang disesuaikan dengan kebutuhan dan gaya unik Anda.
+
         image:
           altText: Maria Walters
           styles:
