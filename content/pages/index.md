@@ -353,11 +353,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Video Perkerjaan Epoxy Lantai
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Berikut Ini Adalah Testimoni Video Pekerjaan Epoxy Lantai Yang Sudah Kami
+      Kerjakan, Jika Anda Sedang Membutuhkan Jasa Epoxy Lantai Yang Sudah
+      Berpengalaman, Segera Hubungi Kontak Kami Secepatnya Telp/Wa 0859 7373
+      5656 (Nuansa Epoxy).
     actions: []
     media:
       title: Jasa Epoxy Lantai
