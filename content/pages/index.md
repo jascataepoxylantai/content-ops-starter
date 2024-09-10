@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Berpengalaman & Bergaransi
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Menjadi Kontraktor epoxy lantai terkemuka yang diakui secara nasional
+      dengan komitmen terhadap kualitas terbaik, inovasi berkelanjutan, dan
+      kepuasan pelanggan yang tak tertandingi, Nuansa Epoxy adalah pilihan utama
+      untuk semua kebutuhan Anda dalam pemeliharaan dan perbaikan lantai.
     actions:
       - label: Get started
         altText: ''
