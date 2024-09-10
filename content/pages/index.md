@@ -107,7 +107,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Jasa Epoxy Lantai
         tagline: ''
         subtitle: This is the item subtitle
         text: |
