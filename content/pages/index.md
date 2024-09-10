@@ -90,7 +90,6 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/vise-logo.svg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
