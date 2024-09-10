@@ -68,10 +68,12 @@ sections:
       - type: FeaturedItem
         title: Epoxy Lantai
         subtitle: Jasa Epoxy Lantai
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Pemasangan Epoxy Lantai: Kami menghadirkan teknologi terkini dalam
+          pemasangan epoxy lantai untuk menciptakan permukaan yang tahan lama
+          dan mudah perawatannya. Dengan berbagai opsi warna dan desain, Anda
+          bisa memilih gaya yang sesuai dengan preferensi dan kebutuhan Anda.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
