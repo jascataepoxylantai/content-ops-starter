@@ -107,30 +107,6 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: ''
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/3.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
