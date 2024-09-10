@@ -65,16 +65,7 @@ sections:
       kebutuhan lantai Anda, baik untuk keperluan rumah tangga, komersial,
       maupun industri.
     items: []
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: Jasa aplikator epoxy lantai
       color: text-primary
