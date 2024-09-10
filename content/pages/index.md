@@ -134,7 +134,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Epoxy Lantai Self Leveling
         tagline: ''
         subtitle: This is the item subtitle
         text: |
