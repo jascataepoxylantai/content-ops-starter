@@ -370,16 +370,11 @@ sections:
 
           *   **Pengalaman dan Keahlian**
               Aplikator profesional berpengalaman yang ahli dalam pemasangan dan perawatan lantai epoxy
-
-          *   **
-              Harga Komptitif**
+          *   **Harga Komptitif**
               Dengan Harga berani bersaing dengan kompetitor, tanpa mengurangi mutu dan kualitas
-
           *   **Layanan Konsultasi 24/7**
               Kepuasan pelanggan adalah prioritas utama kami, dan kami selalu siap memberikan layanan terbaik.
-
-          *
-              **Solusi Kustom**
+          *   **Solusi Kustom**
               Kami menawarkan solusi kustom yang disesuaikan dengan kebutuhan dan gaya unik Anda.
 
         image:
