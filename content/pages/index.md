@@ -136,7 +136,7 @@ sections:
       - type: FeaturedItem
         title: Epoxy Lantai Self Leveling
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
