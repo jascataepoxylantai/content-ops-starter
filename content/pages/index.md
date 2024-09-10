@@ -286,8 +286,66 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Aplikator Berpengalamab
+      color: text-dark
+    subtitle: ''
+    text: >+
+      Dengan tim ahli yang berpengalaman dan terampil, kami telah mendedikasikan
+      diri untuk memberikan pelayanan unggul dalam industri ini Seebagai 
+      Aplikator Jasa Epoxy Lantai Yang Terbaikk Layanan Kami Meliputi:
+
+
+      1.  Jasa Epoxy Lantai Pabrik
+
+
+      2.  Aplikator Pengecatan Lantai
+
+
+      3.  Kontraktor Cat Lantai Epoxy
+
+
+      4.  Jasa Epoxy Lantai Gudang
+
+
+      5.  Jasa Cat Epoxy Lantai
+
+
+      6.  Jasa Epoxy Lantai Lapangan Olahraga
+
+
+      7.  Pengecatan Lantai Epoxy Gedung & Parkiran
+
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/55.jpg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: nuansa epoxy indonesia
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title:
-      text: Grow your business 10x faster
+      text: Aplikator Berpengalaman
       color: text-dark
       styles:
         self:
@@ -320,7 +378,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Nuansa epoxy indonesia
       color: text-primary
       styles:
         self:
