@@ -320,7 +320,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Informasi Lengkap Hubungi Kami
         url: /
         icon: arrowRight
         iconPosition: right
