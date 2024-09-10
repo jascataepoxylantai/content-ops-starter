@@ -99,7 +99,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Layanan Kami
       color: text-primary
       styles:
         self:
