@@ -60,7 +60,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Terbaik & Berpengalaman
+    subtitle: >-
+      Nuansa epoxy menawarkan berbagai layanan yang dirancang untuk memenuhi
+      kebutuhan lantai Anda, baik untuk keperluan rumah tangga, komersial,
+      maupun industri.
     items:
       - type: FeaturedItem
         title: 500k
